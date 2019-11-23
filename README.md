@@ -10,6 +10,6 @@ Author: Michael Ziegler
 
 𝘿𝙇𝙇.𝙝: Class and type definitions for the 'SortedList' Items are in strict ascending order; duplicates are not allowed. Dynamic storage dummy-headed circular singly-linked list implementation.
 
-𝘿𝙍𝙄𝙑𝙀𝙍_𝙎𝙇𝘾_𝘿𝙇𝙇.𝙘𝙥𝙥: Simple-minded driver for exercising the SortedList methods. Original concept based on a variation of Carrano (5th Ed.), Chapter 3, pp. 133-134.  NOTE: This program is not a comprehensive test program.
+𝘿𝙍𝙄𝙑𝙀𝙍.𝙘𝙥𝙥: Simple-minded driver for exercising the SortedList methods. Original concept based on a variation of Carrano (5th Ed.), Chapter 3, pp. 133-134.  NOTE: This program is not a comprehensive test program.
 
 𝙢𝙖𝙠𝙚𝙛𝙞𝙡e: Makefile to efficiently compile with the cmd 'make' command.

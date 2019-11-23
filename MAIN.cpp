@@ -1,11 +1,9 @@
 // olaDLL BY Michael Ziegler,  CSCI2170-002,  Due: 04/10/18
 // PROGRAM ID:  SortedListTester.cpp / Illustration of using the SortedList
-// RCS:  $Revision$ $Date$
 // AUTHOR:  Michael Ziegler
-// INSTALLATION:  MTSU
 // REMARKS:  Simple-minded driver for exercising the SortedList methods.
 // Original concept based on a variation of Carrano (5th Ed.), Chapter 3,
-// pp. 133-134.   NOTE: This program is not a comprehensive test program.
+// pp. 133-134.
 //
 //  .    1    .    2    .    3    .    4    .    5    .    6    .    7    .
 //3456789012345678901234567890123456789012345678901234567890123456789012345
